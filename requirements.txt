@@ -1,0 +1,6 @@
+typer
+pydantic
+pandas
+requests
+python-dotenv
+pytest
