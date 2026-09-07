@@ -4,3 +4,7 @@ pandas
 requests
 python-dotenv
 pytest
+httpx
+python-frontmatter
+pyyaml
+pyarrow
